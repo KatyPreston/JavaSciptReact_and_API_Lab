@@ -1,5 +1,20 @@
 body {
-  margin: 0;
+  margin-left: 500px;
   padding: 0;
   font-family: sans-serif;
+  background-image: url(http://www.abc.net.au/news/image/2591048-3x2-940x627.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: azure;
+  justify-content: center;
 }
+
+/* div {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+
+} */
